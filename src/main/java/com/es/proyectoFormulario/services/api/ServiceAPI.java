@@ -1,4 +1,4 @@
 package com.es.proyectoFormulario.services.api;
 
-public class ServiceAPI {
+public interface ServiceAPI {
 }

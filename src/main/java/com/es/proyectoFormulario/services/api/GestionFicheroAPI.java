@@ -1,4 +1,4 @@
 package com.es.proyectoFormulario.services.api;
 
-public class GestionFicheroAPI {
+public interface GestionFicheroAPI {
 }
